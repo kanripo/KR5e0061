@@ -1,16 +1,3 @@
-#+TITLE: 磻溪集 / CK-KZ
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-29 02:11:21.929457
-* 版本
- |     CK-KZ|【重刊道藏輯要】|
- |       HFL|【正統道藏・涵芬樓版】|
- |      YP-C|【原版道藏輯要】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5e0061_000.txt][磻溪集 0]]
- - [[file:KR5e0061_001.txt][磻溪集 1]]
- - [[file:KR5e0061_002.txt][磻溪集 2]]
- - [[file:KR5e0061_003.txt][磻溪集 3]]
- - [[file:KR5e0061_004.txt][磻溪集 4]]
- - [[file:KR5e0061_005.txt][磻溪集 5]]
- - [[file:KR5e0061_006.txt][磻溪集 6]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
